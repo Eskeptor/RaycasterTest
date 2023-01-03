@@ -155,6 +155,11 @@
     <ClCompile Include="Map2D.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="include\GL\freeglut.h" />
+    <ClInclude Include="include\GL\freeglut_ext.h" />
+    <ClInclude Include="include\GL\freeglut_std.h" />
+    <ClInclude Include="include\GL\freeglut_ucall.h" />
+    <ClInclude Include="include\GL\glut.h" />
     <ClInclude Include="Map2D.h" />
     <ClInclude Include="MyUtil.h" />
     <ClInclude Include="Player.h" />
